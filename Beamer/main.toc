@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Methods}{5}{0}{2}
+\beamer@sectionintoc {3}{Properties}{6}{0}{3}
+\beamer@sectionintoc {4}{Bifurcations}{7}{0}{4}
+\beamer@subsectionintoc {4}{1}{Bifurcations in Parameter $\rho $}{9}{0}{4}
+\beamer@sectionintoc {5}{Sensitive Dependence on Initial Conditions}{15}{0}{5}
